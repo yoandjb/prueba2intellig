@@ -6,5 +6,6 @@ public class Main {
     {
         System.out.println("inicializando");
         System.out.println("dependecia1");
+        System.out.println("dependecia2");
     }
 }
